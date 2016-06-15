@@ -3,4 +3,11 @@
 
 # amazonka-example
 
-TODO
+    git clone https://github.com/sboosali/amazonka-example.git
+
+    cd amazonka-example
+
+    stack setup
+
+    stack build  &&  stack exec -- example-amazonka-example
+
