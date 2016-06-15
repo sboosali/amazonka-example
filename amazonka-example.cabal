@@ -52,7 +52,7 @@ library
                      ScopedTypeVariables StandaloneDeriving
 
  exposed-modules:
-  Amazonka
+  Amazonka.Example
 
  build-depends:
                base >=4.7 && <5
